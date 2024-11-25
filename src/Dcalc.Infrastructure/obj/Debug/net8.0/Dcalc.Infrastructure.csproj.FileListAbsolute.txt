@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Infrastructure\bin\Debug\net8.0\Dcalc.Infrastructure.deps.json
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Infrastructure\bin\Debug\net8.0\Dcalc.Infrastructure.dll
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Infrastructure\bin\Debug\net8.0\Dcalc.Infrastructure.pdb
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Infrastructure\obj\Debug\net8.0\Dcalc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Infrastructure\obj\Debug\net8.0\Dcalc.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Infrastructure\obj\Debug\net8.0\Dcalc.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Infrastructure\obj\Debug\net8.0\Dcalc.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Infrastructure\obj\Debug\net8.0\Dcalc.Infrastructure.dll
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Infrastructure\obj\Debug\net8.0\refint\Dcalc.Infrastructure.dll
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Infrastructure\obj\Debug\net8.0\Dcalc.Infrastructure.pdb
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Infrastructure\obj\Debug\net8.0\ref\Dcalc.Infrastructure.dll

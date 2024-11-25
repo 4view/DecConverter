@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Core\bin\Debug\net8.0\Dcalc.Core.deps.json
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Core\bin\Debug\net8.0\Dcalc.Core.dll
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Core\bin\Debug\net8.0\Dcalc.Core.pdb
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Core\obj\Debug\net8.0\Dcalc.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Core\obj\Debug\net8.0\Dcalc.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Core\obj\Debug\net8.0\Dcalc.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Core\obj\Debug\net8.0\Dcalc.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Core\obj\Debug\net8.0\Dcalc.Core.dll
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Core\obj\Debug\net8.0\refint\Dcalc.Core.dll
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Core\obj\Debug\net8.0\Dcalc.Core.pdb
+C:\Users\User\Desktop\Sources\Dcalc\src\Dcalc.Core\obj\Debug\net8.0\ref\Dcalc.Core.dll
